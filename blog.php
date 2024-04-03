@@ -6,23 +6,14 @@
       <!-- Required meta tags -->
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      <title>Anuj</title>
+      <title>The Life spirt event compan</title>
 
 
       <?php   include 'inc/stylesheet.php' ?>
       
    </head>
    <body class="position-relative">
-      <!-- loading -->
-      <!-- <div id="loading">
-         <div id="loading-center">
-            <div class="load-img">
-               <img src="public/public/images/loader.gif" alt="loader">
-            </div>
-         </div>
-      </div> -->
-      <!-- loading End -->
-      <!-- Header -->
+      
        
 
       <?php  include 'inc/header.php' ?>
